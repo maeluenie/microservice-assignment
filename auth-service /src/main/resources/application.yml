@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#    driver: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/workshop
+#    username: root
+#    password: 1qaz2wsxM!
+#  jpa:
+#    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+#    hibernate:
+#      ddl-auto: create
+#    show-sql: true
